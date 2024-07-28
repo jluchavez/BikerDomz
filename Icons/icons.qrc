@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>add-stock.svg</file>
+    <file>graph.svg</file>
+    <file>soldstocktoday.svg</file>
+    <file>receivedstock.svg</file>
+    <file>totalsoldstocks.svg</file>
+    <file>totalsales.svg</file>
+    <file>todaysales.svg</file>
+    <file>sales.svg</file>
+    <file>today.svg</file>
+    <file>box-seam.svg</file>
+    <file>archive.svg</file>
+    <file>calendar.svg</file>
+    <file>logo.svg</file>
+    <file>icons.qrc</file>
+    <file>list-task.svg</file>
+    <file>trash3.svg</file>
+    <file>edit.svg</file>
+    <file>exit.svg</file>
+    <file>iconizer-plus-lg.svg</file>
+    <file>plus-lg.svg</file>
+    <file>boxes.svg</file>
+    <file>box-seam-fill.svg</file>
+    <file>cart3.svg</file>
+    <file>columns-gap.svg</file>
+    <file>iconizer-columns-gap.svg</file>
+    <file>iconizer-list.svg</file>
+    <file>menu-button-wide.svg</file>
+    <file>person.svg</file>
+    <file>power.svg</file>
+    <file>search-svgrepo-com.svg</file>
+    <file>tags.svg</file>
+  </qresource>
+</RCC>
